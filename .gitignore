@@ -1,0 +1,7 @@
+// add folders Logs, bin, obg
+# Ignore the Logs directory
+Logs/
+# Ignore the bin directory
+bin/
+# Ignore the obg directory
+obj/
